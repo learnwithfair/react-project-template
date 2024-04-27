@@ -1,0 +1,8 @@
+For privious source
+-> Delete node_module folder then run npm start  or visit->https://www.youtube.com/watch?v=mhvXhpLLIMY&t=23s
+
+-> Setup google extension-> React Developer Tool
+
+Install VS code extension-> ES7+ React/Redux/React-Native snippets
+class component for short code: rcc
+function component short code: rfc
