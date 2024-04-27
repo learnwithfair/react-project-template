@@ -3,8 +3,7 @@
 Thanks for visiting my GitHub account!
 
 
-![](https://static-00.iconduck.com/assets.00/react-original-wordmark-icon-840x1024-vhmauxp6.png)
-React is a free and open-source front-end JavaScript library for building user interfaces based on components. It is maintained by Meta and a community of individual developers and companies. React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js
+![](https://styles.redditmedia.com/t5_2su6s/styles/communityIcon_4g1uo0kd87c61.png) **React** is a free and open-source front-end JavaScript library for building user interfaces based on components. It is maintained by Meta and a community of individual developers and companies. React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js
 
 
 ## Source Code (Download)
@@ -15,7 +14,7 @@ React is a free and open-source front-end JavaScript library for building user i
 
 - VS Code, Download (LTS) ->https://code.visualstudio.com/download
 - Node, Download-> https://nodejs.org/en/download
-- React Developer tools extention for google, firefox, edge
+- React Developer tools extension for google, firefox, edge
 - Extension: ES7 react, JS JSX snippets + “editior.snipperSuggestions”: “top”, react developer tools, material theme, setup eslint and prettier
 
 ## ========== Environment Setup ==========
@@ -31,7 +30,19 @@ React is a free and open-source front-end JavaScript library for building user i
 -   clone to your local machine
 -   npm install
 -   npm start
-- [Or](#First react app)
+- Or, create and run react app with npx
+
+```js
+// create react app command
+npx create-react-app appName
+
+// If any error occurs
+npm install npm -g
+
+// run react app command
+cd appName
+npm start
+```
 
 ## Template Includes
 
@@ -44,8 +55,8 @@ React is a free and open-source front-end JavaScript library for building user i
 
 # React Documentation
 
-- Prerequisities: HTML, CSS, Javascript
-- [React.js official Site](https://reactjs.org/)
+- Prerequisites: HTML, CSS, Javascript
+- [React.js Official Site](https://reactjs.org/)
 
 ## Table of Contents
 
@@ -158,7 +169,7 @@ Overall, React is a powerful and popular choice for building modern web applicat
 
 #### [First react app](https://youtu.be/_yYO_ly9hmY?si=ruoWbevzoJrj0pqS)
 
-Method 1: add React to a website with CDN
+#### Method 1: add React to a website with CDN
 
 - **Code Example - 1 (create React app)**
 
@@ -254,13 +265,13 @@ Method 1: add React to a website with CDN
     </html>
     ```
 
-Method 2: create and run react app with npx
+#### Method 2: create and run react app with npx
 
 ```js
 // create react app command
 npx create-react-app appName
 
-// If any error occure
+// If any error occurs
 npm install npm -g
 
 // run react app command
@@ -268,7 +279,7 @@ cd appName
 npm start
 ```
 
-Method 3: create react app with bundler with vite `npm create vite@latest` swc(speedy web compiler)
+#### Method 3: create react app with bundler with vite `npm create vite@latest` swc(speedy web compiler)
 
 #### Understand File structure
 
