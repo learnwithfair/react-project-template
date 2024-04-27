@@ -8,7 +8,7 @@ Thanks for visiting my GitHub account!
 
 ## Source Code (Download)
 
-[Click Here](https://mega.nz/folder/kCs3gLwD#OreAYeEeXeabncC4hIbz-g)
+[Click Here]()
 
 ## Required Software (Download)
 
@@ -130,7 +130,7 @@ React is an open-source JavaScript library for building user interfaces. It was 
 
 #### Why React / Features of React.js
 
-![React](images/Untitled-2023-10-07-1651.png)
+![React](https://github.com/learnwithfair/react-js/blob/main/images/Untitled-2023-10-07-1651.png)
 
 Here are some key features and concepts associated with React:
 
