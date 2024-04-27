@@ -31,12 +31,14 @@ React is a free and open-source front-end JavaScript library for building user i
 -   clone to your local machine
 -   npm install
 -   npm start
+- [Or](#First react app)
 
 ## Template Includes
 
 -   react-icons
 -   Eslint
 -   Prettier
+
 
 
 
